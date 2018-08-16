@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "25463405219",
+    "firebase_url": "https://airport-direct.firebaseio.com",
+    "project_id": "airport-direct",
+    "storage_bucket": "airport-direct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25463405219:android:75602d8c5c6847f2",
+        "android_client_info": {
+          "package_name": "com.nimius.airportdirect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25463405219-htr3khr4cj1lom2rhf0bujiaq9ela9sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAlju5LVTaHrjAL-DCTkT1kMA881dc_Xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
